@@ -8,13 +8,13 @@ This project involved office automation for measuring the gain (dB) of a broadba
 
 In this project, I also used **OpenPyXL** to integrate with **Tkinter** (graphical user interface) to read and write Excel files efficiently. The goal was to develop office automation scripts to analyze, update, and validate data in compliance with international standards like **CISPR**—a crucial aspect for ensuring quality and precision.
 
-[Go to Project 1](ZNB_Gain_Measurement/Gain_Measurement.html)
+[Go to Project 1](https://m-chuu.github.io/OfficeAutomation_mchuu/ZNB_Gain_Measurement/Gain_Measurement.html)
 
 ## Project 2: Auto_Close_Specific_Windows
 
 This project involved automating the process of closing windows in a consistent way every time, specifically aimed at streamlining and automating the daily calibration process in the workplace.
 
-[Go to Project 2]([Auto_Close_Specific_Windows/Auto_Close_Specific_Windows.html](https://m-chuu.github.io/OfficeAutomation_mchuu/Auto_Close_Specific_Windows/Auto_Close_Specific_Windows.html))
+[Go to Project 2](https://m-chuu.github.io/OfficeAutomation_mchuu/Auto_Close_Specific_Windows/Auto_Close_Specific_Windows.html)
 
 ## Programming Skills Demonstrated
 
