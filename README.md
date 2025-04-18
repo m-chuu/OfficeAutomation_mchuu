@@ -14,7 +14,7 @@ In this project, I also used **OpenPyXL** to integrate with **Tkinter** (graphic
 
 This project involved automating the process of closing windows in a consistent way every time, specifically aimed at streamlining and automating the daily calibration process in the workplace.
 
-[Go to Project 2](Auto_Close_Specific_Windows/Auto_Close_Specific_Windows.html)
+[Go to Project 2]([Auto_Close_Specific_Windows/Auto_Close_Specific_Windows.html](https://m-chuu.github.io/OfficeAutomation_mchuu/Auto_Close_Specific_Windows/Auto_Close_Specific_Windows.html))
 
 ## Programming Skills Demonstrated
 
