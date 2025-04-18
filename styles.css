@@ -1,0 +1,69 @@
+/* styles.css */
+
+/* Reset some basic styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply background color to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Style for the header */
+header {
+    margin-bottom: 30px;
+}
+
+/* Style for the main content */
+main {
+    text-align: left; /* Left alignment for all content */
+}
+
+/* Styling the list and links */
+ul, ol {
+    margin-left: 20px; /* Indent for the lists */
+}
+
+ul li, ol li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #0056b3;
+    font-size: 18px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #003366;
+}
+
+/* Adding some spacing and font size to the paragraph */
+p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* Styling for the button */
+button {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
